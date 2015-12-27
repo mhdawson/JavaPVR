@@ -8,7 +8,7 @@ This project contains 3 main components
 
 # Recorder
 
-The recorder uses data in the XMLTV fromat from [Shedules Direct](www.schedulesdirect.org) 
+The recorder uses data in the XMLTV fromat from [Shedules Direct](http://www.schedulesdirect.org) 
 to shedule recordings and then record them using IP network based HDHomeRun devices from
 silicondust (and others like HDPVR if you want). The recorder simply takes a list of 
 show names and then finds/schedules all "new" episodes for that show. Guide data is
